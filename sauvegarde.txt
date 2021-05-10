@@ -1,0 +1,5 @@
+
+Nom du routeur : R1
+Adresse IP1 eth0: 192.145.87.32/16
+Adresse IP2 eth1 : 192.76.32.54/16
+Passerelle par défaut : 
