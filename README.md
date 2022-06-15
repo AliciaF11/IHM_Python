@@ -11,4 +11,4 @@ Ce projet a pour but d'éviter les configurations via ligne de commande, en offr
 
 ## Développement de mon interface graphique sur QtDesigner
 Mon interface se compose de 2 pages
-![imagespython](Image1.JPG)
+![imagespython](Image1.jpg)
