@@ -11,9 +11,11 @@ Ce projet a pour but d'éviter les configurations via ligne de commande, en offr
 
 ## Développement de mon interface graphique sur QtDesigner
 Mon interface se compose de 2 pages  
-* <p align="center">
+<p align="center">
   <img src="Image1.jpg"/>
 </p>
-* <p align="center">
+<p align="center">
   <img src="Image2.jpg"/>
 </p>
+
+### Comment cela fonctionne-t-il?
