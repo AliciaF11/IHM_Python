@@ -10,5 +10,8 @@ Ce projet a pour but d'éviter les configurations via ligne de commande, en offr
 * QtDeisgner + PyQT pour le développement graphique
 
 ## Développement de mon interface graphique sur QtDesigner
-Mon interface se compose de 2 pages
-![imagespython](Image1.jpg)
+Mon interface se compose de 2 pages  
+<p align="center">
+  <img src="Image1.jpg"/>
+</p>
+
