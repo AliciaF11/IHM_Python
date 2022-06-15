@@ -1,16 +1,16 @@
-# Interface de configurations des routeurs Cisco
+# Cisco Router Configuration Interface
 
-## But du projet
-Développer une interface graphique d'utilisateur (GUI) permettant la configuration des routeurs Cisco dans un réseau.  
-Ce projet a pour but d'éviter les configurations via ligne de commande, en offrant une interface plus intuitive à l'utilisateur.
+## Objective of the project
+Developed a graphical user interface (GUI) allowing the configuration of Cisco routers in a network.  
+This project aims to avoid configurations via command line, by offering a more intuitive interface to the user.
 
-## Technologies utilisées
-* Paramiko pour l'accès SSH
+## Technologies used
+* Paramiko for SSH access
 * MVC 
-* QtDeisgner + PyQT pour le développement graphique
+* QtDesigner + PyQT for graphics development
 
-## Développement de mon interface graphique sur QtDesigner
-Mon interface se compose de 2 pages  
+## Development of my GUI on QtDesigner
+My interface consists of 2 pages
 <p align="center">
   <img src="Image1.jpg"/>
 </p>
@@ -18,18 +18,18 @@ Mon interface se compose de 2 pages
   <img src="Image2.jpg"/>
 </p>
 
-## Fonctionnalités
+## Features
 ### Page 1
-Cette fenêtre permet de sélectionner un router pour ensuite y entrer ses caractéristiques. 
+This window allows you to select a router and then enter its characteristics.
 ### Page 2
-Cette fenêtre comprend toutes les fonctionnalités que l'utilisateur peut modifier:
-* Changement du nom du routeur
-* Ajout d'une adresse IP
-* Suppression d'une adresse IP
-* Ajout de la passerelle par défaut
-* Désactivation de la carte eth1
-* Affichage de la table de routage
-* Fichier sauvegarde
+This window includes all the features that the user can modify:
+* Changed router name
+* Add IP address
+* Deletion of an IP address
+* Add default gateway
+* Disable eth1 card
+* Routing table display
+* Backup file
 
-#### Veuillez trouver les codes associés à ce projet au même endroit que le readme.md 
+#### Please find the codes associated with this project in the same place as the readme.md
 
