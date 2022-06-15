@@ -18,7 +18,7 @@ Mon interface se compose de 2 pages
   <img src="Image2.jpg"/>
 </p>
 
-## Fonctionnalites
+## Fonctionnalités
 ### Page 1
 Cette fenêtre permet de sélectionner un router pour ensuite y entrer ses caractéristiques. 
 ### Page 2
